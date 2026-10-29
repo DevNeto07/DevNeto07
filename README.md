@@ -51,5 +51,5 @@ AI is part of how I build: from application features and automations to the way 
 
 Based in Pernambuco, Brazil. Open to remote internships, collaborations, and conversations about software and AI.
 
-📩 <span>sneto.dev</span><span>@gmail.com</span> · <a href="https://www.linkedin.com/in/sergio-neto-227052407/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="28" height="28" alt="LinkedIn profile"></a>
+📩 <span>sneto.dev</span><span>@gmail.com</span>
 
